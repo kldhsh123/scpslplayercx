@@ -1,0 +1,2 @@
+# scpslplayercx
+基于QQNT插件加载器,LLBOT和人数查询api实现的秘密实验室人数查询
